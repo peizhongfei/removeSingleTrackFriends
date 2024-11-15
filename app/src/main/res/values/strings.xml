@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RemoveDeadFriendDemo</string>
+    <string name="remove_no_need_friend">移除僵尸好友！</string>
+</resources>
